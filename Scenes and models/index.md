@@ -3,7 +3,7 @@
 [Сцени](<Scenes and models/Scenes.md>) та [моделі](<Scenes and models/Models.md>) є основними складовими симуляції у CoppeliaSim. Модель це явно позначений піделемент на сцені. Сцена може містити будь-яку кількість моделей. Наступна картинка ілюструє відношення сцена-модель
 
 <p align="center">
-<img src="Scenes and models/sceneAndModel1.jpg" />
+<img src="sceneAndModel1.jpg" />
 </p>
 
 І сцени і моделі можуть містити один чи кілька наступних елементів:
