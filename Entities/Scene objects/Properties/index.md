@@ -1,6 +1,6 @@
 # Властивості об'єктів сцени
 
-Властивості [об'єктів сцени](<../Scene objects.md>) розташовані у меню `Tools > Scene object properties`. Те ж саме діалгове вікно відкривається подвійним натисканням на іконку об'єкта на [ієрархії сцени](<../../User_Interface/User_Interface.md>) або натисканням на наступну кнопку на [панелі інструментів](<../../User_Interface/User_Interface.md>):
+Властивості [об'єктів сцени](<../Scene objects.md>) розташовані у меню `Tools > Scene object properties`. Те ж саме діалогове вікно відкривається подвійним натисканням на іконку об'єкта на [ієрархії сцени](<../../User_Interface/User_Interface.md>) або натисканням на наступну кнопку на [панелі інструментів](<../../User_Interface/User_Interface.md>):
 
 <p align="center">
 <img src="objectPropertyToolbarButton.jpg" />
