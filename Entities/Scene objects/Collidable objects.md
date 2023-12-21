@@ -11,6 +11,6 @@
 
 [Колекції](../Collections.md) також вважаються здатними до зіткнень, бо вони можуть містити об'єкти, що здатні до зіткнень.
 
-Для подібних об'єктів здатність до зіткнень може бути точково активована або деактивована (для таких об'єктів, як непримітивні форми, октодерева та хмари точок, вона активована зі створення). Ця властивість задається у [загальних властивостях об'єкта](<Properties/Object common properties.md>) або через API функцію [`sim.setObjectSpecialProperty`](https://www.coppeliarobotics.com/helpFiles/en/regularApi/simSetObjectSpecialProperty.htm).
+Для подібних об'єктів здатність до зіткнень може бути точково активована або деактивована (для таких об'єктів, як непримітивні форми, октодерева та хмари точок, вона активована зі створення). Ця властивість задається у [загальних властивостях об'єкта](<Properties/Object common properties.md>) або через [API](https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm) функцію [`sim.setObjectSpecialProperty`](https://www.coppeliarobotics.com/helpFiles/en/regularApi/simSetObjectSpecialProperty.htm).
 
 Окрім цього, здатність об'єкта до стикання може бути перевизначена через відповідні параметри моделі (якщо він є складовою [моделі](<../../Scenes and models/Models.md>)). Для додаткової інформації дивіться [діалогове вікно налаштувань моделі](<../../Scenes and models/Models/Model dialog.md>).
