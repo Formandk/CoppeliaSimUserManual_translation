@@ -5,9 +5,10 @@
 <p align="center">
 <img src="sceneAndModel1.jpg" />
 </p>
+<p align="center">[Сцена і модель]</p>
 
 І сцени і моделі можуть містити один чи кілька наступних елементів:
-- [Об'єкти](https://www.coppeliarobotics.com/helpFiles/en/objects.htm)
+- [Об'єкти](<../Entities/Scene objects/Scene objects.md>)
 - [Дочірні скрипти](https://www.coppeliarobotics.com/helpFiles/en/childScripts.htm)
 
 На додачу до попердніх елементів сцена також буде містити наступне:
